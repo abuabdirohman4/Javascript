@@ -1,0 +1,3 @@
+[submodule "js-01-javascript-basic"]
+	path = js-01-javascript-basic
+	url = git@github.com:abuabdirohman4/js-01-javascript-basic.git
