@@ -1,6 +1,7 @@
 [submodule "js-basic"]
 	path = js-basic
 	url = git@github.com:abuabdirohman4/js-basic.git
+	branch = main
 [submodule "js-02-javascript-modern"]
 	path = js-02-javascript-modern
 	url = git@github.com:abuabdirohman4/js-02-javascript-modern.git
