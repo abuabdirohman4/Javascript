@@ -5,3 +5,4 @@
 [submodule "js-modern"]
 	path = js-modern
 	url = git@github.com:abuabdirohman4/js-modern.git
+	branch = master
