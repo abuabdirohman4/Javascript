@@ -6,3 +6,7 @@
 	path = js-modern
 	url = git@github.com:abuabdirohman4/js-modern.git
 	branch = master
+[submodule "js-vue"]
+	path = js-vue
+	url = git@github.com:abuabdirohman4/js-vue.git
+	branch = master
