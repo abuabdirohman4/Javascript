@@ -14,6 +14,10 @@
 	path = js-express
 	url = git@github.com:abuabdirohman4/js-express.git
 	branch = develop
+[submodule "js-mern"]
+	path = js-mern
+	url = git@github.com:abuabdirohman4/js-mern.git
+	branch = master
 [submodule "js-modern"]
 	path = js-modern
 	url = git@github.com:abuabdirohman4/js-modern.git
