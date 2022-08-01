@@ -2,6 +2,10 @@
 	path = js-basic
 	url = git@github.com:abuabdirohman4/js-basic.git
 	branch = main
+[submodule "js-dom"]
+	path = js-dom
+	url = git@github.com:abuabdirohman4/js-dom.git
+	branch = main
 [submodule "js-modern"]
 	path = js-modern
 	url = git@github.com:abuabdirohman4/js-modern.git
