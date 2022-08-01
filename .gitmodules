@@ -1,3 +1,7 @@
+[submodule "js-ajax"]
+	path = js-ajax
+	url = git@github.com:abuabdirohman4/js-ajax.git
+	branch = main
 [submodule "js-basic"]
 	path = js-basic
 	url = git@github.com:abuabdirohman4/js-basic.git
@@ -6,9 +10,25 @@
 	path = js-dom
 	url = git@github.com:abuabdirohman4/js-dom.git
 	branch = main
+[submodule "js-express"]
+	path = js-express
+	url = git@github.com:abuabdirohman4/js-express.git
+	branch = develop
 [submodule "js-modern"]
 	path = js-modern
 	url = git@github.com:abuabdirohman4/js-modern.git
+	branch = master
+[submodule "js-next"]
+	path = js-next
+	url = git@github.com:abuabdirohman4/js-next.git
+	branch = master
+[submodule "js-node"]
+	path = js-node
+	url = git@github.com:abuabdirohman4/js-node.git
+	branch = develop
+[submodule "js-react"]
+	path = js-react
+	url = git@github.com:abuabdirohman4/js-react.git
 	branch = master
 [submodule "js-vue"]
 	path = js-vue
