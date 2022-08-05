@@ -38,3 +38,6 @@
 	path = js-vue
 	url = git@github.com:abuabdirohman4/js-vue.git
 	branch = master
+[submodule "js-modules"]
+	path = js-modules
+	url = git@github.com:abuabdirohman4/js-modules.git
