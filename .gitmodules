@@ -41,7 +41,7 @@
 [submodule "js-modules"]
 	path = js-modules
 	url = git@github.com:abuabdirohman4/js-modules.git
-[submodule "js-alphine"]
-	path = js-alphine
-	url = git@github.com:abuabdirohman4/js-alphine.git
 	branch = master
+[submodule "js-alpine"]
+	path = js-alpine
+	url = git@github.com:abuabdirohman4/js-alpine.git
