@@ -45,3 +45,6 @@
 [submodule "js-alpine"]
 	path = js-alpine
 	url = git@github.com:abuabdirohman4/js-alpine.git
+[submodule "js-typescript"]
+	path = js-typescript
+	url = git@github.com:abuabdirohman4/js-typescript.git
