@@ -48,3 +48,6 @@
 [submodule "js-typescript"]
 	path = js-typescript
 	url = git@github.com:abuabdirohman4/js-typescript.git
+[submodule "js-jquery"]
+	path = js-jquery
+	url = git@github.com:abuabdirohman4/js-jquery.git
