@@ -51,3 +51,6 @@
 [submodule "js-jquery"]
 	path = js-jquery
 	url = git@github.com:abuabdirohman4/js-jquery.git
+[submodule "js-codewars"]
+	path = js-codewars
+	url = git@github.com:abuabdirohman4/js-codewars.git
