@@ -54,3 +54,6 @@
 [submodule "js-codewars"]
 	path = js-codewars
 	url = git@github.com:abuabdirohman4/js-codewars.git
+[submodule "js-solid-principle"]
+	path = js-solid-principle
+	url = git@github.com:abuabdirohman4/js-solid-principle.git
