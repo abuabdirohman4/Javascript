@@ -60,3 +60,6 @@
 [submodule "js-react-native"]
 	path = js-react-native
 	url = git@github.com:abuabdirohman4/js-react-native.git
+[submodule "js-javascript30"]
+	path = js-javascript30
+	url = https://github.com/abuabdirohman4/js-javascript30
